@@ -1,0 +1,43 @@
+.board {
+    width: 400px;
+    margin: auto
+}
+
+.info {
+    width: 400px;
+    margin: auto;
+}
+
+.move-history {
+    max-height: 450px;
+    overflow-y: auto;
+}
+
+.move-history span:last-child { 
+	background: #ff9;
+	color: #333;
+	font-weight: bolder;
+}
+
+body {
+    margin: 0 auto !important;
+    width: 90% !important;
+    background: teal !important;
+}
+
+.main-body {
+	background: #f1f1f1;
+	padding: 1%;
+}
+.heading {
+	font-size: 200%;
+	color: #fff;
+	padding: 2%;
+}
+
+.move-history table tr > td:last-of-type {
+	color: red;
+}
+img:hover {
+	cursor: grab;
+}
