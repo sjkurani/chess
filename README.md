@@ -10,3 +10,5 @@ Minmax - Minimax algorithm is used to create a search tree where our algo can ch
 
 For More documentation please visit http://chessboardjs.com/docs# and https://github.com/jhlywa/chess.js/
 
+You can play here -> https://sjkurani.github.io/chess/
+
